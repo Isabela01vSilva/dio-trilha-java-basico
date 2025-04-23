@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
-
 public interface NavegadorInternet {
+    void exibirPagina(String url);
+    void adicionarNovaAba();
+    void atualizarPagina();
 }
