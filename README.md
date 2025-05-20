@@ -29,6 +29,10 @@ Este repositório contém os projetos desenvolvidos durante a trilha "Java Cloud
 - Anotações e boas práticas com Spring
 - Integração com banco de dados (Spring Data JPA)
 
+#### 5️⃣ Integração com Banco de Dados
+- Mapeamento objeto-relacional (ORM) facilitando operações com dados
+- Operações CRUD (Create, Read, Update, Delete) simples e eficazes
+- Consultas personalizadas com JPQL e Query Methods
 ---
 
 ## 📁 Projetos Desenvolvidos
@@ -69,6 +73,11 @@ Este repositório contém os projetos desenvolvidos durante a trilha "Java Cloud
 
 ## 💻 Tecnologias Utilizadas
 
-- Java 17 (ou versão próxima)
-- IDE: IntelliJ IDEA / Eclipse
+- Java 17 (versões mais novas)
+- IDE: IntelliJ IDEA 
 - Git e GitHub
+
+- ## ✍️ Sobre a Autora
+
+Feito com 💙 por **Isabela Silva**  
+🔗 [LinkedIn](https://www.linkedin.com/in/isabela01vsilva/) | 🔗 [GitHub](https://github.com/Isabela01vSilva)
