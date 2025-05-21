@@ -8,6 +8,7 @@ public class PrecoApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PrecoApiApplication.class, args);
+		System.out.println();
 	}
 
 }
